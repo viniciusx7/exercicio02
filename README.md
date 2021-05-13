@@ -1,2 +1,1 @@
-# exercicio02
-Site simples em PHP
+# exercicio01
