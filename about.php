@@ -13,10 +13,10 @@
   <body>
     <ul class="nav nav-tabs">
       <li class="nav-item">
-        <a class="nav-link" href="index.html">Home</a>
+        <a class="nav-link" href="index.php">Home</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link active" href="about.html">Sobre</a>
+        <a class="nav-link active" href="about.php">Sobre</a>
       </li>
     </ul>
     <div class="container">
